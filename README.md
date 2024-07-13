@@ -93,24 +93,3 @@ Here you can see the main steps of the motion detector. You can read more about 
 <img  width=200 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/previous_image.jpg" />
 
 <img  width=400 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/difference_binary.jpg" />
-
---------------------------
-
-## Images
-
-<img  height=350 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/index_page.jpg" />
-<img  height=350 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/login_form.jpg" />
-
-<img  height=350 src="https://github.com/gaborvecsei/Home-Security/blob/master/images/raspberry_pi.jpg" />
-
---------------------------
-
-## About
-
-Gábor Vecsei
-
-- [Personal Blog](https://gaborvecsei.wordpress.com/)
-- [LinkedIn](https://www.linkedin.com/in/gaborvecsei)
-- [Twitter](https://twitter.com/GAwesomeBE)
-- [Github](https://github.com/gaborvecsei)
-- vecseigabor.x@gmail.com
